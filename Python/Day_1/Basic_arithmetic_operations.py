@@ -1,10 +1,11 @@
-x = 100
-y = 6
-print("Number 1 is ",x)
-print("Number 2 is ",y)
-print("Sum is ",x+y)
-print("Subtraction is ",x-y)
-print("Multiplication is ",x*y)
-print("Division is ",x/y)
-print("Floor division is ",x//y)
-print("Modulus is ",x%y)
+a = float(input("Enter the first number : "))
+b = float(input("Enter the second number : "))
+print(f'The first number is {a}')
+print(f'The second number is {b}')
+
+print(f'Addition is : {a+b}')
+print(f'Subtraction is : {a-b}')
+print(f'Multiplication is : {a*b}')
+print(f'Division is : {a/b}')
+print(f'Floor division is : {a//b}')
+print(f'Modulus is : {a%b}')

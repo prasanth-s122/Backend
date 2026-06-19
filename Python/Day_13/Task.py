@@ -1,0 +1,28 @@
+name = input("Enter name\n")
+age = int(input("Enter age\n"))
+address = input("Enter address\n")
+contact = int(input("Enter mobile number\n"))
+course = input("Enter course name\n")
+degree = input("Enter degree\n")
+email = input("Enter email\n")
+gender = input("Enter gender\n")
+score = int(input("Enter score\n"))
+date_of_birth = input("Enter Date of birth\n")
+domain = input("Enter domain\n")
+
+def bio_data(name,age,address,contact,course,degree,email,gender,score,date_of_birth,domain):
+    print("Name ---->",name)
+    print("age ---->",age)
+    print("address ---->",address)
+    print("contact ---->",contact)
+    print("course ---->",course)
+    print("degree ---->",degree)
+    print("email ---->",email)
+    print("gender ---->",gender)
+    print("score ---->",score)
+    print("date_of_birth ---->",date_of_birth)
+    print("domain ---->",domain)
+
+print("<---- BIO DATA ---->")
+
+bio_data(name,age,address,contact,course,degree,email,gender,score,date_of_birth,domain)

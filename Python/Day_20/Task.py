@@ -20,10 +20,14 @@ class purchase(bike):
         print("Gear present")
     
     def name(self):
-        print("Honda")
+        a = input("Enter the name\n")
+        print("\n\n",a)
 
     def wheels(self):
         print("Wheels")
+    
+    def insurance(self):
+        print("Insurance")
 
 purchase_1 = purchase()
 
@@ -31,3 +35,4 @@ purchase_1.name()
 purchase_1.engine()
 purchase_1.gear()
 purchase_1.wheels()
+purchase_1.insurance()

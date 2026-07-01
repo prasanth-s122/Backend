@@ -1,15 +1,15 @@
 import math as m
-# fun = lambda x : x**2
-# x = int(input("Enter the number\n"))
-# print(f"Square of {x} is {fun(x)}")
+fun = lambda x : x**2
+x = int(input("Enter the number\n"))
+print(f"Square of {x} is {fun(x)}")
 
-# # Equations
+# Equations
 
-# eqn = lambda a,b : a**2 + 2*a*b + b**2
-# a = int(input("Enter the number\n"))
-# b = int(input("Enter the number\n"))
+eqn = lambda a,b : a**2 + 2*a*b + b**2
+a = int(input("Enter the number\n"))
+b = int(input("Enter the number\n"))
 
-# print(f"({a}+{b})^2 = {eqn(a,b)}")
+print(f"({a}+{b})^2 = {eqn(a,b)}")
 
 # Square root of list 
 

@@ -1,0 +1,8 @@
+HelloEvery meowGood bye
+This is File handling
+
+    Modes:
+      -->Create
+      -->WriteHello
+Every meow
+Good bye

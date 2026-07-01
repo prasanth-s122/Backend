@@ -1,0 +1,8 @@
+    BIO DATA    
+Name : Prasanth
+Age : 26
+Native : Namakkal
+Education : B.E CSE
+Skills : Frontend ----> Html, Css, Bootstrap, Tailwind, Java script and React
+Skills : Backend ----> Python
+Database : MySql

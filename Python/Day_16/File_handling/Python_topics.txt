@@ -1,0 +1,11 @@
+Python topics
+    Functions:
+        -->Def function
+        -->User Defined function
+        -->Reccurssive function
+        -->Lambda function
+        -->Map function
+     -->Sympy
+      -->Symbols
+      -->Filter functions
+        -->Reduce function

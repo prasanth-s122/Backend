@@ -1,26 +1,26 @@
-# # Using Recursion
+# Using Recursion
 
-# a = int(input("Enter the number\n"))
+a = int(input("Enter the number\n"))
 
-# def sum(a):
-#     if a == 1:
-#         return 1
-#     else:
-#         return a + sum(a-1)
+def sum(a):
+    if a == 1:
+        return 1
+    else:
+        return a + sum(a-1)
      
-# print(f"Sum of {a} natural numbers is ----> {sum(a)}")
+print(f"Sum of {a} natural numbers is ----> {sum(a)}")
 
-# # Factorial using recursion
+# Factorial using recursion
 
-# b = int(input("Enter the number to find factorial\n"))
+b = int(input("Enter the number to find factorial\n"))
 
-# def fact(b):
-#     if b==1:
-#         return 1
-#     else:
-#         return b*fact(b-1)
+def fact(b):
+    if b==1:
+        return 1
+    else:
+        return b*fact(b-1)
 
-# print(f"The factorial of {b} is ----> {fact(b)}")
+print(f"The factorial of {b} is ----> {fact(b)}")
 
 # Task
 

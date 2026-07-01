@@ -1,0 +1,5 @@
+Write : 
+Opening in write mode
+Deletes existing data
+
+So we open the file in append mode....
